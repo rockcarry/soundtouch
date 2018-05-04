@@ -1,3 +1,4 @@
 !.gitignore
 source/Android-lib/obj/
+source/Android-lib/libs/
 
